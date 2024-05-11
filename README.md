@@ -2,12 +2,15 @@
 #repositorio salvo codepen
 
 #efeito de chuva
+
 https://codepen.io/romeuwb/pen/NWVWVLq
 
 #efeito de luz no texto
+
 https://codepen.io/romeuwb/full/dyEyEmj
 
 #corações pulsando
+
 https://codepen.io/romeuwb/full/qBGBGxo
 
 #1
