@@ -8,9 +8,8 @@ https://codepen.io/romeuwb/pen/NWVWVLq
 https://codepen.io/romeuwb/full/dyEyEmj
 
 #corações pulsando
-#1
 https://codepen.io/romeuwb/full/qBGBGxo
-#2
+
 https://codepen.io/romeuwb/full/jOoOoZW
-#3
+
 https://codepen.io/romeuwb/full/MWdgrOY
